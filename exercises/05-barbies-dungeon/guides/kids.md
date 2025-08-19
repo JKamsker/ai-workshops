@@ -1,3 +1,3 @@
 # Barbies Glamour-Dungeon
 
-Hilf Barbie und Ken aus dem magischen Dungeon zu entkommen, indem du die geheime Schminkanleitung entschlüsselst!
+Barbie und Ken sind in getrennten Räumen gefangen! Hilf ihnen, zwei Rätsel zu lösen, damit sie wieder zueinander finden und aus dem magischen Dungeon entkommen können.
